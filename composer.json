@@ -1,0 +1,20 @@
+{
+    "name": "Commenci",
+    "description": "Description of project Commenci.",
+    "authors": [
+        {
+            "name": "Vincent",
+            "email": "vincent.diep61@gmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "includes/vendor"
+    },
+    "require": {
+        "rinkattendant6/json-i18n": "v1.0.0",
+        "zendframework/zend-escaper": "2.2.6",
+        "respect/validation": "~0.6.1",
+        "doctrine/dbal": "~2.3.5",
+        "slim/slim": "~2.4.3"
+    }
+}
